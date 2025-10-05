@@ -6,14 +6,14 @@ The main goal is to **homogenize the UI and design patterns** across all compone
 ## 📚 Documentation Index
 
 ### 🇪🇸 Español
-- [Tecnologías Actuales](docs/es/tecnologias_actuales.md)
-- [Propuestas](docs/es/propuestas.md)
-- [Resolución Final](docs/es/resolucion.md)
+- [Tecnologías Actuales](docs/esp/tecnologias_actuales.md)
+- [Propuestas](docs/esp/propuestas.md)
+- [Resolución Final](docs/esp/resolucion.md)
 
 ### 🇬🇧 English
-- [Current Technologies](docs/en/current_technologies.md)
-- [Proposals](docs/en/proposals.md)
-- [Final Resolution](docs/en/resolution.md)
+- [Current Technologies](docs/eng/current_technologies.md)
+- [Proposals](docs/eng/proposals.md)
+- [Final Resolution](docs/eng/resolution.md)
 
 ---
 
