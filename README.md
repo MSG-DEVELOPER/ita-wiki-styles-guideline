@@ -11,7 +11,7 @@ The main goal is to **homogenize the UI and design patterns** across all compone
 - [Resolución Final](docs/es/resolucion.md)
 
 ### 🇬🇧 English
-- [Current Technologies](docs/en/technologies.md)
+- [Current Technologies](docs/en/current_technologies.md)
 - [Proposals](docs/en/proposals.md)
 - [Final Resolution](docs/en/resolution.md)
 
